@@ -1355,7 +1355,7 @@ with tab5:
 
     st.markdown("---")
     st.markdown("### 📊 Statistik Deskriptif  _(Notebook [2])_")
-    st.dataframe(df_f[["Units Sold", "Unit Price", "Total Revenue"]].describe().round(2), use_container_width=True)
+    st.dataframe(df_f.describe().round(2), use_container_width=True)
 
     csv_dl = df_f.to_csv(index=False).encode("utf-8")
     st.download_button("📥 Download CSV Terfilter", csv_dl, "hasil_cluster.csv", "text/csv", use_container_width=True)
