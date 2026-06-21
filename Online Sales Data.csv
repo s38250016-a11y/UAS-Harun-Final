@@ -1,0 +1,301 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+T0204,2024-11-02,Home & Living,Home & Living Product 204,11,388.59,4274.49,East,Credit Card
+T0267,2024-09-24,Sports,Sports Product 267,92,72.54,6673.68,West,Debit Card
+T0153,2024-08-02,Food & Grocery,Food & Grocery Product 153,127,32.67,4149.09,North,PayPal
+T0010,2024-02-20,Electronics,Electronics Product 010,13,73.15,950.95,West,Debit Card
+T0234,2024-10-22,Home & Living,Home & Living Product 234,85,188.94,16059.9,North,Debit Card
+T0227,2024-01-10,Home & Living,Home & Living Product 227,95,630.41,59888.95,South,Debit Card
+T0197,2024-10-17,Home & Living,Home & Living Product 197,46,574.57,26430.22,West,Debit Card
+T0110,2024-12-19,Fashion,Fashion Product 110,181,114.81,20780.61,North,PayPal
+T0006,2024-12-16,Electronics,Electronics Product 006,46,117.67,5412.82,East,PayPal
+T0176,2024-05-28,Food & Grocery,Food & Grocery Product 176,193,13.0,2509.0,West,PayPal
+T0238,2024-03-26,Home & Living,Home & Living Product 238,60,99.56,5973.6,North,Credit Card
+T0058,2024-01-05,Electronics,Electronics Product 058,32,1019.94,32638.08,West,Credit Card
+T0219,2024-01-28,Home & Living,Home & Living Product 219,110,167.48,18422.8,East,PayPal
+T0046,2024-07-28,Electronics,Electronics Product 046,98,1058.89,103771.22,West,PayPal
+T0183,2024-01-25,Home & Living,Home & Living Product 183,47,445.63,20944.61,North,Credit Card
+T0222,2024-07-21,Home & Living,Home & Living Product 222,83,95.84,7954.72,East,Credit Card
+T0290,2024-09-17,Sports,Sports Product 290,65,176.69,11484.85,West,Debit Card
+T0212,2024-02-01,Home & Living,Home & Living Product 212,25,464.93,11623.25,South,Debit Card
+T0149,2024-10-25,Food & Grocery,Food & Grocery Product 149,400,29.12,11648.0,East,Credit Card
+T0166,2024-12-11,Food & Grocery,Food & Grocery Product 166,105,34.84,3658.2,West,Debit Card
+T0079,2024-08-13,Fashion,Fashion Product 079,167,218.66,36516.22,North,Credit Card
+T0114,2024-05-06,Fashion,Fashion Product 114,361,165.59,59777.99,South,Credit Card
+T0250,2024-08-25,Sports,Sports Product 250,137,325.87,44644.19,South,Credit Card
+T0251,2024-10-09,Sports,Sports Product 251,31,126.18,3911.58,North,PayPal
+T0105,2024-02-15,Fashion,Fashion Product 105,270,115.01,31052.7,West,Credit Card
+T0043,2024-03-19,Electronics,Electronics Product 043,40,74.05,2962.0,West,Debit Card
+T0282,2024-03-26,Sports,Sports Product 282,100,49.53,4953.0,East,PayPal
+T0296,2024-12-04,Sports,Sports Product 296,69,495.27,34173.63,East,Debit Card
+T0158,2024-04-25,Food & Grocery,Food & Grocery Product 158,399,22.49,8973.51,West,PayPal
+T0239,2024-04-17,Home & Living,Home & Living Product 239,20,252.29,5045.8,East,Debit Card
+T0018,2024-09-07,Electronics,Electronics Product 018,19,289.64,5503.16,North,Credit Card
+T0165,2024-08-05,Food & Grocery,Food & Grocery Product 165,486,44.34,21549.24,West,Debit Card
+T0034,2024-08-09,Electronics,Electronics Product 034,63,518.64,32674.32,West,Credit Card
+T0025,2024-09-15,Electronics,Electronics Product 025,18,766.0,13788.0,East,PayPal
+T0216,2024-07-23,Home & Living,Home & Living Product 216,43,344.73,14823.39,West,PayPal
+T0120,2024-04-26,Fashion,Fashion Product 120,57,63.36,3611.52,West,PayPal
+T0008,2024-07-21,Electronics,Electronics Product 008,7,1296.91,9078.37,North,Debit Card
+T0091,2024-03-18,Fashion,Fashion Product 091,351,20.19,7086.69,East,Debit Card
+T0047,2024-01-16,Electronics,Electronics Product 047,64,428.2,27404.8,South,Credit Card
+T0074,2024-04-15,Fashion,Fashion Product 074,152,39.32,5976.64,East,Debit Card
+T0094,2024-04-25,Fashion,Fashion Product 094,124,265.08,32869.92,North,Credit Card
+T0077,2024-05-23,Fashion,Fashion Product 077,395,22.22,8776.9,East,Credit Card
+T0287,2024-07-10,Sports,Sports Product 287,77,243.43,18744.11,South,Debit Card
+T0061,2024-01-14,Fashion,Fashion Product 061,86,279.57,24043.02,North,Debit Card
+T0078,2024-01-15,Fashion,Fashion Product 078,178,64.39,11461.42,South,PayPal
+T0064,2024-08-14,Fashion,Fashion Product 064,103,213.37,21977.11,West,PayPal
+T0235,2024-11-08,Home & Living,Home & Living Product 235,66,235.2,15523.2,South,Credit Card
+T0230,2024-11-14,Home & Living,Home & Living Product 230,82,137.3,11258.6,West,PayPal
+T0112,2024-12-26,Fashion,Fashion Product 112,222,18.24,4049.28,West,Credit Card
+T0232,2024-05-10,Home & Living,Home & Living Product 232,79,734.01,57986.79,West,Credit Card
+T0181,2024-09-13,Home & Living,Home & Living Product 181,35,729.06,25517.1,South,Credit Card
+T0145,2024-11-18,Food & Grocery,Food & Grocery Product 145,294,70.57,20747.58,North,PayPal
+T0240,2024-02-23,Home & Living,Home & Living Product 240,113,466.13,52672.69,East,PayPal
+T0076,2024-03-28,Fashion,Fashion Product 076,196,241.63,47359.48,South,Debit Card
+T0298,2024-03-11,Sports,Sports Product 298,130,254.55,33091.5,South,Debit Card
+T0279,2024-09-05,Sports,Sports Product 279,28,177.94,4982.32,East,Debit Card
+T0098,2024-03-09,Fashion,Fashion Product 098,62,225.87,14003.94,South,Credit Card
+T0093,2024-04-26,Fashion,Fashion Product 093,164,95.33,15634.12,North,PayPal
+T0193,2024-04-11,Home & Living,Home & Living Product 193,52,491.25,25545.0,South,PayPal
+T0026,2024-03-07,Electronics,Electronics Product 026,46,687.04,31603.84,North,Credit Card
+T0233,2024-05-25,Home & Living,Home & Living Product 233,47,81.73,3841.31,South,PayPal
+T0060,2024-05-06,Electronics,Electronics Product 060,48,1413.66,67855.68,East,Credit Card
+T0007,2024-03-12,Electronics,Electronics Product 007,66,1188.51,78441.66,East,Credit Card
+T0186,2024-01-20,Home & Living,Home & Living Product 186,73,158.38,11561.74,South,Debit Card
+T0174,2024-01-05,Food & Grocery,Food & Grocery Product 174,267,65.74,17552.58,North,Credit Card
+T0031,2024-09-27,Electronics,Electronics Product 031,66,209.58,13832.28,South,Credit Card
+T0023,2024-11-03,Electronics,Electronics Product 023,48,974.46,46774.08,North,Debit Card
+T0257,2024-11-08,Sports,Sports Product 257,117,444.8,52041.6,South,Debit Card
+T0057,2024-11-02,Electronics,Electronics Product 057,58,1363.84,79102.72,North,PayPal
+T0187,2024-06-25,Home & Living,Home & Living Product 187,36,637.22,22939.92,North,Credit Card
+T0109,2024-01-07,Fashion,Fashion Product 109,370,265.9,98383.0,North,Credit Card
+T0127,2024-11-27,Food & Grocery,Food & Grocery Product 127,162,34.47,5584.14,North,Credit Card
+T0231,2024-02-23,Home & Living,Home & Living Product 231,67,723.44,48470.48,North,Debit Card
+T0194,2024-08-23,Home & Living,Home & Living Product 194,113,479.21,54150.73,East,PayPal
+T0130,2024-05-05,Food & Grocery,Food & Grocery Product 130,536,48.89,26205.04,South,PayPal
+T0283,2024-01-06,Sports,Sports Product 283,59,291.55,17201.45,West,Debit Card
+T0083,2024-05-12,Fashion,Fashion Product 083,287,294.16,84423.92,West,PayPal
+T0085,2024-04-02,Fashion,Fashion Product 085,59,285.51,16845.09,West,Debit Card
+T0067,2024-03-18,Fashion,Fashion Product 067,219,245.67,53801.73,North,Credit Card
+T0289,2024-07-02,Sports,Sports Product 289,96,263.58,25303.68,West,Credit Card
+T0164,2024-08-23,Food & Grocery,Food & Grocery Product 164,430,11.59,4983.7,North,Debit Card
+T0155,2024-12-13,Food & Grocery,Food & Grocery Product 155,506,43.38,21950.28,South,PayPal
+T0020,2024-05-10,Electronics,Electronics Product 020,39,1168.34,45565.26,East,PayPal
+T0125,2024-05-23,Food & Grocery,Food & Grocery Product 125,341,46.37,15812.17,West,Credit Card
+T0080,2024-05-22,Fashion,Fashion Product 080,321,162.26,52085.46,North,Debit Card
+T0115,2024-05-16,Fashion,Fashion Product 115,209,173.46,36253.14,South,Credit Card
+T0119,2024-06-12,Fashion,Fashion Product 119,273,31.49,8596.77,West,Credit Card
+T0073,2024-05-28,Fashion,Fashion Product 073,150,163.84,24576.0,West,Credit Card
+T0016,2024-02-15,Electronics,Electronics Product 016,66,521.73,34434.18,North,PayPal
+T0011,2024-08-15,Electronics,Electronics Product 011,64,226.96,14525.44,East,PayPal
+T0195,2024-10-13,Home & Living,Home & Living Product 195,55,503.51,27693.05,West,PayPal
+T0102,2024-03-12,Fashion,Fashion Product 102,193,142.81,27562.33,North,Debit Card
+T0069,2024-12-19,Fashion,Fashion Product 069,313,215.06,67313.78,East,Debit Card
+T0225,2024-12-20,Home & Living,Home & Living Product 225,76,484.53,36824.28,North,Credit Card
+T0038,2024-02-21,Electronics,Electronics Product 038,5,397.36,1986.8,West,PayPal
+T0017,2024-12-13,Electronics,Electronics Product 017,93,457.36,42534.48,North,Credit Card
+T0180,2024-05-19,Food & Grocery,Food & Grocery Product 180,390,17.32,6754.8,East,PayPal
+T0148,2024-02-17,Food & Grocery,Food & Grocery Product 148,111,20.48,2273.28,South,PayPal
+T0275,2024-08-03,Sports,Sports Product 275,101,354.09,35763.09,West,Debit Card
+T0068,2024-09-04,Fashion,Fashion Product 068,365,160.73,58666.45,North,Credit Card
+T0229,2024-02-13,Home & Living,Home & Living Product 229,23,601.1,13825.3,North,Debit Card
+T0070,2024-07-22,Fashion,Fashion Product 070,141,179.98,25377.18,East,Credit Card
+T0032,2024-07-06,Electronics,Electronics Product 032,81,1298.06,105142.86,West,Debit Card
+T0184,2024-08-08,Home & Living,Home & Living Product 184,75,448.54,33640.5,East,Debit Card
+T0266,2024-01-21,Sports,Sports Product 266,56,40.2,2251.2,South,Debit Card
+T0226,2024-09-02,Home & Living,Home & Living Product 226,47,625.85,29414.95,North,Debit Card
+T0141,2024-01-28,Food & Grocery,Food & Grocery Product 141,283,68.16,19289.28,West,Credit Card
+T0019,2024-11-19,Electronics,Electronics Product 019,12,58.01,696.12,North,Debit Card
+T0182,2024-07-08,Home & Living,Home & Living Product 182,27,658.78,17787.06,South,Debit Card
+T0097,2024-05-12,Fashion,Fashion Product 097,145,112.13,16258.85,North,Debit Card
+T0133,2024-07-26,Food & Grocery,Food & Grocery Product 133,447,25.15,11242.05,South,PayPal
+T0263,2024-09-10,Sports,Sports Product 263,35,439.37,15377.95,South,Credit Card
+T0087,2024-07-02,Fashion,Fashion Product 087,53,190.52,10097.56,North,Debit Card
+T0249,2024-08-21,Sports,Sports Product 249,99,439.01,43461.99,North,Debit Card
+T0246,2024-06-02,Sports,Sports Product 246,127,353.45,44888.15,West,Debit Card
+T0117,2024-01-21,Fashion,Fashion Product 117,96,194.38,18660.48,South,PayPal
+T0147,2024-06-01,Food & Grocery,Food & Grocery Product 147,416,7.39,3074.24,North,Credit Card
+T0293,2024-04-20,Sports,Sports Product 293,56,69.2,3875.2,West,PayPal
+T0198,2024-08-09,Home & Living,Home & Living Product 198,18,356.58,6418.44,South,Debit Card
+T0207,2024-06-26,Home & Living,Home & Living Product 207,38,477.05,18127.9,West,PayPal
+T0056,2024-06-06,Electronics,Electronics Product 056,90,434.54,39108.6,North,Debit Card
+T0173,2024-10-12,Food & Grocery,Food & Grocery Product 173,109,46.15,5030.35,South,Credit Card
+T0185,2024-03-07,Home & Living,Home & Living Product 185,60,362.28,21736.8,East,PayPal
+T0168,2024-11-08,Food & Grocery,Food & Grocery Product 168,540,58.88,31795.2,South,Debit Card
+T0140,2024-01-05,Food & Grocery,Food & Grocery Product 140,346,44.27,15317.42,North,PayPal
+T0254,2024-11-23,Sports,Sports Product 254,195,75.34,14691.3,North,PayPal
+T0039,2024-07-04,Electronics,Electronics Product 039,36,851.69,30660.84,East,Debit Card
+T0126,2024-01-11,Food & Grocery,Food & Grocery Product 126,473,65.79,31118.67,North,PayPal
+T0196,2024-08-28,Home & Living,Home & Living Product 196,91,500.82,45574.62,East,Credit Card
+T0284,2024-01-27,Sports,Sports Product 284,99,336.06,33269.94,East,Credit Card
+T0138,2024-11-19,Food & Grocery,Food & Grocery Product 138,405,49.24,19942.2,East,PayPal
+T0113,2024-12-25,Fashion,Fashion Product 113,50,209.1,10455.0,East,Credit Card
+T0169,2024-06-26,Food & Grocery,Food & Grocery Product 169,272,62.71,17057.12,South,Debit Card
+T0118,2024-09-11,Fashion,Fashion Product 118,308,271.83,83723.64,West,PayPal
+T0278,2024-09-02,Sports,Sports Product 278,48,446.6,21436.8,West,PayPal
+T0272,2024-03-24,Sports,Sports Product 272,188,109.49,20584.12,South,Credit Card
+T0156,2024-09-23,Food & Grocery,Food & Grocery Product 156,393,44.95,17665.35,North,PayPal
+T0177,2024-11-09,Food & Grocery,Food & Grocery Product 177,433,74.97,32462.01,South,Debit Card
+T0179,2024-05-14,Food & Grocery,Food & Grocery Product 179,427,67.1,28651.7,West,PayPal
+T0003,2024-08-12,Electronics,Electronics Product 003,26,131.8,3426.8,South,PayPal
+T0116,2024-04-03,Fashion,Fashion Product 116,252,276.95,69791.4,East,Credit Card
+T0144,2024-11-22,Food & Grocery,Food & Grocery Product 144,282,48.86,13778.52,West,Credit Card
+T0178,2024-06-28,Food & Grocery,Food & Grocery Product 178,134,74.48,9980.32,West,Credit Card
+T0121,2024-12-05,Food & Grocery,Food & Grocery Product 121,415,48.77,20239.55,North,Debit Card
+T0211,2024-01-13,Home & Living,Home & Living Product 211,71,187.96,13345.16,North,PayPal
+T0261,2024-02-03,Sports,Sports Product 261,177,20.11,3559.47,East,Debit Card
+T0128,2024-03-01,Food & Grocery,Food & Grocery Product 128,516,40.15,20717.4,North,Debit Card
+T0075,2024-02-28,Fashion,Fashion Product 075,357,52.83,18860.31,South,PayPal
+T0030,2024-10-23,Electronics,Electronics Product 030,66,832.05,54915.3,West,Credit Card
+T0084,2024-01-05,Fashion,Fashion Product 084,390,149.94,58476.6,East,PayPal
+T0270,2024-08-20,Sports,Sports Product 270,71,51.19,3634.49,North,Debit Card
+T0108,2024-05-06,Fashion,Fashion Product 108,243,38.18,9277.74,East,Credit Card
+T0224,2024-11-10,Home & Living,Home & Living Product 224,56,511.07,28619.92,East,PayPal
+T0159,2024-02-15,Food & Grocery,Food & Grocery Product 159,166,53.66,8907.56,West,Debit Card
+T0281,2024-12-16,Sports,Sports Product 281,165,58.9,9718.5,North,Credit Card
+T0247,2024-11-17,Sports,Sports Product 247,120,63.96,7675.2,North,Credit Card
+T0223,2024-12-18,Home & Living,Home & Living Product 223,28,478.94,13410.32,South,Credit Card
+T0066,2024-09-11,Fashion,Fashion Product 066,322,256.87,82712.14,South,Debit Card
+T0199,2024-05-21,Home & Living,Home & Living Product 199,32,124.56,3985.92,South,PayPal
+T0086,2024-01-24,Fashion,Fashion Product 086,299,281.03,84027.97,North,Credit Card
+T0214,2024-04-01,Home & Living,Home & Living Product 214,103,460.92,47474.76,West,Credit Card
+T0160,2024-08-08,Food & Grocery,Food & Grocery Product 160,569,49.01,27886.69,North,Debit Card
+T0013,2024-04-22,Electronics,Electronics Product 013,10,351.52,3515.2,North,Debit Card
+T0036,2024-05-17,Electronics,Electronics Product 036,6,1082.79,6496.74,West,Credit Card
+T0029,2024-09-21,Electronics,Electronics Product 029,32,1398.06,44737.92,South,PayPal
+T0143,2024-03-15,Food & Grocery,Food & Grocery Product 143,142,23.01,3267.42,North,Debit Card
+T0285,2024-09-21,Sports,Sports Product 285,32,421.77,13496.64,South,Debit Card
+T0255,2024-02-27,Sports,Sports Product 255,135,425.38,57426.3,South,Debit Card
+T0171,2024-06-05,Food & Grocery,Food & Grocery Product 171,189,62.58,11827.62,South,Debit Card
+T0052,2024-02-02,Electronics,Electronics Product 052,22,283.17,6229.74,South,Debit Card
+T0096,2024-04-18,Fashion,Fashion Product 096,226,223.52,50515.52,North,Debit Card
+T0209,2024-12-08,Home & Living,Home & Living Product 209,29,349.26,10128.54,North,Debit Card
+T0248,2024-01-15,Sports,Sports Product 248,93,351.47,32686.71,West,PayPal
+T0042,2024-03-20,Electronics,Electronics Product 042,74,1058.93,78360.82,West,Debit Card
+T0090,2024-12-13,Fashion,Fashion Product 090,217,273.02,59245.34,West,Debit Card
+T0245,2024-09-07,Sports,Sports Product 245,190,307.18,58364.2,East,Debit Card
+T0137,2024-06-28,Food & Grocery,Food & Grocery Product 137,174,20.97,3648.78,South,PayPal
+T0027,2024-07-07,Electronics,Electronics Product 027,8,1365.97,10927.76,North,Debit Card
+T0294,2024-01-12,Sports,Sports Product 294,87,164.46,14308.02,South,Credit Card
+T0142,2024-02-13,Food & Grocery,Food & Grocery Product 142,133,51.56,6857.48,South,Debit Card
+T0201,2024-05-15,Home & Living,Home & Living Product 201,64,205.09,13125.76,North,Credit Card
+T0001,2024-11-08,Electronics,Electronics Product 001,56,1428.54,79998.24,North,Credit Card
+T0269,2024-11-13,Sports,Sports Product 269,82,473.47,38824.54,South,Credit Card
+T0273,2024-07-17,Sports,Sports Product 273,24,322.29,7734.96,North,Debit Card
+T0101,2024-04-19,Fashion,Fashion Product 101,333,285.77,95161.41,South,Debit Card
+T0260,2024-07-03,Sports,Sports Product 260,127,131.82,16741.14,South,PayPal
+T0256,2024-08-03,Sports,Sports Product 256,36,332.08,11954.88,West,Credit Card
+T0172,2024-03-01,Food & Grocery,Food & Grocery Product 172,455,29.05,13217.75,South,PayPal
+T0099,2024-09-22,Fashion,Fashion Product 099,111,156.52,17373.72,North,Debit Card
+T0037,2024-02-28,Electronics,Electronics Product 037,63,933.87,58833.81,South,Debit Card
+T0062,2024-04-21,Fashion,Fashion Product 062,148,294.39,43569.72,West,Debit Card
+T0151,2024-08-17,Food & Grocery,Food & Grocery Product 151,125,70.12,8765.0,East,Credit Card
+T0237,2024-12-22,Home & Living,Home & Living Product 237,55,66.16,3638.8,East,Credit Card
+T0203,2024-09-26,Home & Living,Home & Living Product 203,44,336.59,14809.96,East,PayPal
+T0243,2024-09-26,Sports,Sports Product 243,128,94.24,12062.72,South,Credit Card
+T0012,2024-08-04,Electronics,Electronics Product 012,85,425.23,36144.55,South,PayPal
+T0297,2024-07-11,Sports,Sports Product 297,199,383.97,76410.03,North,PayPal
+T0268,2024-11-28,Sports,Sports Product 268,56,397.45,22257.2,South,Debit Card
+T0028,2024-07-27,Electronics,Electronics Product 028,47,344.44,16188.68,East,PayPal
+T0220,2024-08-14,Home & Living,Home & Living Product 220,44,217.24,9558.56,East,Credit Card
+T0005,2024-09-17,Electronics,Electronics Product 005,26,60.25,1566.5,East,Debit Card
+T0123,2024-03-06,Food & Grocery,Food & Grocery Product 123,319,25.32,8077.08,South,Debit Card
+T0033,2024-01-19,Electronics,Electronics Product 033,13,753.0,9789.0,South,Debit Card
+T0205,2024-11-19,Home & Living,Home & Living Product 205,52,55.29,2875.08,South,Credit Card
+T0163,2024-06-06,Food & Grocery,Food & Grocery Product 163,536,12.63,6769.68,East,PayPal
+T0210,2024-07-19,Home & Living,Home & Living Product 210,10,268.65,2686.5,East,Debit Card
+T0286,2024-07-05,Sports,Sports Product 286,174,381.3,66346.2,East,Credit Card
+T0139,2024-01-24,Food & Grocery,Food & Grocery Product 139,407,46.06,18746.42,East,PayPal
+T0063,2024-02-25,Fashion,Fashion Product 063,210,105.32,22117.2,South,Debit Card
+T0136,2024-05-21,Food & Grocery,Food & Grocery Product 136,402,36.54,14689.08,South,PayPal
+T0129,2024-05-05,Food & Grocery,Food & Grocery Product 129,105,56.88,5972.4,South,Debit Card
+T0291,2024-08-13,Sports,Sports Product 291,117,324.32,37945.44,East,PayPal
+T0009,2024-12-14,Electronics,Electronics Product 009,22,1425.88,31369.36,South,PayPal
+T0071,2024-06-26,Fashion,Fashion Product 071,235,169.65,39867.75,South,PayPal
+T0265,2024-02-04,Sports,Sports Product 265,161,162.56,26172.16,South,PayPal
+T0065,2024-07-02,Fashion,Fashion Product 065,337,206.28,69516.36,East,Debit Card
+T0045,2024-09-18,Electronics,Electronics Product 045,15,544.55,8168.25,East,Debit Card
+T0280,2024-08-27,Sports,Sports Product 280,143,198.89,28441.27,North,PayPal
+T0157,2024-07-22,Food & Grocery,Food & Grocery Product 157,138,29.16,4024.08,South,PayPal
+T0041,2024-01-09,Electronics,Electronics Product 041,74,628.3,46494.2,West,Debit Card
+T0124,2024-09-02,Food & Grocery,Food & Grocery Product 124,355,48.59,17249.45,South,PayPal
+T0276,2024-09-09,Sports,Sports Product 276,32,127.43,4077.76,West,PayPal
+T0217,2024-01-25,Home & Living,Home & Living Product 217,16,537.37,8597.92,East,Debit Card
+T0154,2024-03-07,Food & Grocery,Food & Grocery Product 154,113,16.08,1817.04,East,Debit Card
+T0024,2024-01-05,Electronics,Electronics Product 024,51,1084.2,55294.2,South,Debit Card
+T0262,2024-01-21,Sports,Sports Product 262,65,188.34,12242.1,West,Credit Card
+T0111,2024-10-19,Fashion,Fashion Product 111,216,135.9,29354.4,East,PayPal
+T0082,2024-05-15,Fashion,Fashion Product 082,334,48.08,16058.72,North,PayPal
+T0208,2024-01-20,Home & Living,Home & Living Product 208,94,426.68,40107.92,North,Credit Card
+T0213,2024-06-28,Home & Living,Home & Living Product 213,56,436.29,24432.24,North,PayPal
+T0040,2024-06-24,Electronics,Electronics Product 040,60,394.57,23674.2,North,PayPal
+T0241,2024-01-26,Sports,Sports Product 241,169,371.63,62805.47,West,Debit Card
+T0292,2024-09-02,Sports,Sports Product 292,177,28.85,5106.45,East,Debit Card
+T0259,2024-01-16,Sports,Sports Product 259,172,374.17,64357.24,North,PayPal
+T0200,2024-09-01,Home & Living,Home & Living Product 200,45,125.99,5669.55,East,PayPal
+T0015,2024-08-14,Electronics,Electronics Product 015,99,1386.72,137285.28,East,Credit Card
+T0048,2024-07-09,Electronics,Electronics Product 048,41,1329.82,54522.62,North,Debit Card
+T0095,2024-05-09,Fashion,Fashion Product 095,298,171.17,51008.66,West,Debit Card
+T0264,2024-01-17,Sports,Sports Product 264,122,270.81,33038.82,East,Credit Card
+T0228,2024-01-18,Home & Living,Home & Living Product 228,119,392.72,46733.68,East,Credit Card
+T0274,2024-11-10,Sports,Sports Product 274,39,497.56,19404.84,East,PayPal
+T0202,2024-09-21,Home & Living,Home & Living Product 202,18,188.3,3389.4,South,Credit Card
+T0162,2024-06-05,Food & Grocery,Food & Grocery Product 162,542,31.71,17186.82,North,Credit Card
+T0044,2024-08-07,Electronics,Electronics Product 044,56,1413.76,79170.56,South,Credit Card
+T0218,2024-08-22,Home & Living,Home & Living Product 218,97,181.01,17557.97,North,Debit Card
+T0146,2024-05-18,Food & Grocery,Food & Grocery Product 146,150,8.07,1210.5,West,PayPal
+T0191,2024-04-12,Home & Living,Home & Living Product 191,38,445.69,16936.22,North,PayPal
+T0221,2024-07-16,Home & Living,Home & Living Product 221,63,187.84,11833.92,South,Debit Card
+T0252,2024-07-17,Sports,Sports Product 252,66,41.2,2719.2,East,PayPal
+T0004,2024-05-01,Electronics,Electronics Product 004,6,313.65,1881.9,West,PayPal
+T0106,2024-01-06,Fashion,Fashion Product 106,123,253.53,31184.19,East,PayPal
+T0054,2024-04-24,Electronics,Electronics Product 054,18,521.83,9392.94,West,Debit Card
+T0134,2024-11-18,Food & Grocery,Food & Grocery Product 134,537,62.92,33788.04,West,Credit Card
+T0002,2024-11-24,Electronics,Electronics Product 002,87,194.96,16961.52,North,Debit Card
+T0132,2024-01-17,Food & Grocery,Food & Grocery Product 132,272,50.46,13725.12,West,PayPal
+T0104,2024-10-05,Fashion,Fashion Product 104,91,292.66,26632.06,East,Debit Card
+T0050,2024-11-17,Electronics,Electronics Product 050,37,980.95,36295.15,West,PayPal
+T0081,2024-03-05,Fashion,Fashion Product 081,125,176.32,22040.0,South,Credit Card
+T0206,2024-05-24,Home & Living,Home & Living Product 206,80,157.45,12596.0,North,Credit Card
+T0035,2024-04-12,Electronics,Electronics Product 035,66,1459.08,96299.28,South,Debit Card
+T0092,2024-10-10,Fashion,Fashion Product 092,386,201.88,77925.68,South,PayPal
+T0053,2024-04-01,Electronics,Electronics Product 053,84,1491.96,125324.64,West,Credit Card
+T0242,2024-04-11,Sports,Sports Product 242,167,97.77,16327.59,North,PayPal
+T0014,2024-02-10,Electronics,Electronics Product 014,22,1173.94,25826.68,South,PayPal
+T0089,2024-12-03,Fashion,Fashion Product 089,228,248.88,56744.64,North,Credit Card
+T0167,2024-08-06,Food & Grocery,Food & Grocery Product 167,233,78.13,18204.29,East,PayPal
+T0295,2024-06-26,Sports,Sports Product 295,157,247.32,38829.24,West,Debit Card
+T0135,2024-11-25,Food & Grocery,Food & Grocery Product 135,153,77.6,11872.8,North,Debit Card
+T0288,2024-02-04,Sports,Sports Product 288,177,456.18,80743.86,South,PayPal
+T0244,2024-01-01,Sports,Sports Product 244,92,56.07,5158.44,North,Credit Card
+T0055,2024-01-16,Electronics,Electronics Product 055,71,1003.54,71251.34,West,Debit Card
+T0051,2024-09-03,Electronics,Electronics Product 051,88,892.0,78496.0,North,Credit Card
+T0175,2024-08-06,Food & Grocery,Food & Grocery Product 175,364,49.67,18079.88,East,Debit Card
+T0190,2024-04-13,Home & Living,Home & Living Product 190,22,115.19,2534.18,West,Debit Card
+T0299,2024-02-04,Sports,Sports Product 299,45,96.29,4333.05,North,Debit Card
+T0188,2024-01-04,Home & Living,Home & Living Product 188,110,629.5,69245.0,South,PayPal
+T0170,2024-01-12,Food & Grocery,Food & Grocery Product 170,311,43.07,13394.77,East,Credit Card
+T0059,2024-03-17,Electronics,Electronics Product 059,52,457.12,23770.24,West,Credit Card
+T0049,2024-03-20,Electronics,Electronics Product 049,23,1102.64,25360.72,West,PayPal
+T0236,2024-01-26,Home & Living,Home & Living Product 236,62,165.04,10232.48,North,PayPal
+T0253,2024-05-07,Sports,Sports Product 253,105,459.43,48240.15,North,Debit Card
+T0022,2024-07-24,Electronics,Electronics Product 022,37,142.16,5259.92,North,Debit Card
+T0161,2024-06-20,Food & Grocery,Food & Grocery Product 161,141,26.28,3705.48,South,PayPal
+T0277,2024-09-24,Sports,Sports Product 277,120,63.91,7669.2,East,Debit Card
+T0192,2024-03-04,Home & Living,Home & Living Product 192,36,523.68,18852.48,West,PayPal
+T0258,2024-08-17,Sports,Sports Product 258,127,294.77,37435.79,West,Credit Card
+T0150,2024-11-16,Food & Grocery,Food & Grocery Product 150,313,11.13,3483.69,North,Credit Card
+T0131,2024-09-14,Food & Grocery,Food & Grocery Product 131,182,23.55,4286.1,North,Debit Card
+T0152,2024-08-22,Food & Grocery,Food & Grocery Product 152,279,20.7,5775.3,South,PayPal
+T0100,2024-12-09,Fashion,Fashion Product 100,68,125.92,8562.56,East,Credit Card
+T0088,2024-02-03,Fashion,Fashion Product 088,389,179.01,69634.89,West,Credit Card
+T0215,2024-10-10,Home & Living,Home & Living Product 215,64,758.51,48544.64,East,PayPal
+T0122,2024-01-21,Food & Grocery,Food & Grocery Product 122,546,45.21,24684.66,West,Credit Card
+T0300,2024-07-11,Sports,Sports Product 300,160,430.02,68803.2,West,PayPal
+T0021,2024-09-08,Electronics,Electronics Product 021,45,1376.69,61951.05,West,PayPal
+T0189,2024-10-01,Home & Living,Home & Living Product 189,19,410.37,7797.03,South,PayPal
+T0072,2024-06-15,Fashion,Fashion Product 072,354,25.64,9076.56,South,Debit Card
+T0107,2024-09-18,Fashion,Fashion Product 107,190,78.43,14901.7,East,PayPal
+T0271,2024-10-11,Sports,Sports Product 271,73,311.71,22754.83,South,Credit Card
+T0103,2024-09-07,Fashion,Fashion Product 103,102,240.6,24541.2,North,Credit Card
